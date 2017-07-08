@@ -1,0 +1,19 @@
+{
+  "name": "tim",
+  "version": "1.0.0",
+  "description": "A server for the Beevers demesne",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index.js"
+  },
+  "author": "Tim and Duncan Beevers",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "koa": "^2.3.0",
+    "koa-bestest-router": "^1.0.2",
+    "koa-json": "^2.0.2",
+    "nodemon": "^1.11.0"
+  }
+}
