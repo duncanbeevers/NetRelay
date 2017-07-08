@@ -14,6 +14,7 @@
     "koa": "^2.3.0",
     "koa-bestest-router": "^1.0.2",
     "koa-json": "^2.0.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "rpio": "^0.9.17"
   }
 }
